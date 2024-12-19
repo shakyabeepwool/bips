@@ -4,7 +4,8 @@ from rest_framework import stat6
 from .models import BookSerializer 
 
 class BookListAPIView (APIView):
-    def get()
+    def get():
+        pass
 
 
 # Create your views here.
